@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="625dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/bn_nueva_ambulancia_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nueva ambulancia" />
+
+        <Button
+            android:id="@+id/bn_nuevo_hospital_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nuevo hospital" />
+
+        <Button
+            android:id="@+id/bn_actualizar_ambulancia_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Actualizar info ambulancia" />
+
+        <Button
+            android:id="@+id/bn_informar_accidente_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Informar accidente" />
+
+        <Button
+            android:id="@+id/bn_llevar_accidentado_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Llevar accidentado" />
+
+        <Button
+            android:id="@+id/bn_dar_de_alta_acc_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dar de alta accidentado" />
+
+        <Button
+            android:id="@+id/bn_mostrar_todas_amb_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Todas las ambulancias" />
+
+        <Button
+            android:id="@+id/bn_mostrar_todos_hosp_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Todos los hospitales" />
+
+        <Button
+            android:id="@+id/bn_mostrar_pacientes_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pacientes de un hospital" />
+
+        <Button
+            android:id="@+id/bn_mostrar_amb_libres_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ambulancias libres" />
+
+        <Button
+            android:id="@+id/bn_mostrar_amb_ocup_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ambulancias ocupadas" />
+
+        <Button
+            android:id="@+id/bn_mostrar_info_hospital_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Informacion hospital" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

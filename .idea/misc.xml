@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_actualizar_ambulancia.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_ambulancias_libres.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_ambulancias_ocup.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_dar_de_alta.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_informacion_hospital.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_informar_acc.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_llevar_acc.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_nueva_ambulancia.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_nuevo_hospital.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_pacientes_hospital.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_pacientes_hospital2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_todas_ambulancias.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Parcial/app/src/main/res/layout/activity_todos_hospitales.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
